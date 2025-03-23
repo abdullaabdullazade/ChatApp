@@ -57,8 +57,14 @@ Create a `chatPairs` node to define who can chat with whom.
 
 ➡️ The value is a string in the format: `"User1_User2"`  
 ➡️ You can use any unique key (like `"101010"`) for the pair.
-<img src="./screenshots/firebase.png" alt="Firebase Configuration" width="30%" />
+
+
+
+
+
 <div align="center">
+<img src="./screenshots/firebase.png" alt="Firebase Configuration" width="100%" />
+
   <img src="./screenshots/1.png" alt="Login Screen" width="30%" />
   <img src="./screenshots/2.png" alt="Chat Screen" width="30%" />
 </div>
