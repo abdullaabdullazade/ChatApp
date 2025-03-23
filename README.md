@@ -95,6 +95,9 @@ Here’s an example for authenticated-only access:
 
 You can further customize rules based on your app structure.
 
+
+https://github.com/user-attachments/assets/e1fae412-0056-4591-928f-83c562cc1904
+
 ---
 
 ## 🚀 Running the App
@@ -106,6 +109,9 @@ npx expo start
 ```
 
 Scan the QR code using **Expo Go** and you're ready to chat!
+
+
+
 
 ---
 
