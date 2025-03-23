@@ -27,7 +27,7 @@ export default function Index() {
 
         if (hasBiometrics && isBiometricEnrolled) {
           const biometricAuth = await LocalAuthentication.authenticateAsync({
-            promptMessage: 'Daxil olmaq üçün doğrulayın',
+            promptMessage: 'Authenticate to login',
           });
 
           if (biometricAuth.success) {
@@ -78,7 +78,7 @@ export default function Index() {
 
     if (hasBiometrics && isBiometricEnrolled) {
       const biometricAuth = await LocalAuthentication.authenticateAsync({
-        promptMessage: 'Daxil olmaq üçün doğrulayın',
+        promptMessage: 'Authenticate to login',
       });
 
       if (biometricAuth.success) {
