@@ -1,13 +1,3 @@
-Perfect! Here's the improved English version of your `README.md` — including:
-
-- Firebase setup instructions 🔧  
-- Clear explanation on how to manually add `chatPairs` and `passwords` in Realtime Database 🔐  
-- Warnings about security ⚠️  
-- Emoji-enhanced and styled for GitHub 🌟
-
----
-
-```markdown
 # 💬 ChatX — Personal Chat App with Firebase Realtime DB
 
 **ChatX** is a lightweight and secure chat application built with **React Native (Expo)** and **Firebase Realtime Database**.  
