@@ -58,10 +58,11 @@ Create a `chatPairs` node to define who can chat with whom.
 ➡️ The value is a string in the format: `"User1_User2"`  
 ➡️ You can use any unique key (like `"101010"`) for the pair.
 
-
-![Firebase Configuration](./screenshots/firebase.png)
-![Login Screen](./screenshots/1.png)
-![Chat Screen](./screenshots/2.png)
+<div align="center">
+  <img src="./screenshots/firebase.png" alt="Firebase Configuration" width="30%" />
+  <img src="./screenshots/1.png" alt="Login Screen" width="30%" />
+  <img src="./screenshots/2.png" alt="Chat Screen" width="30%" />
+</div>
 
 ---
 
@@ -112,4 +113,3 @@ Scan the QR code using **Expo Go** and you're ready to chat!
 ---
 
 📬 For feedback or questions, open an issue or contact the maintainer.
-```
