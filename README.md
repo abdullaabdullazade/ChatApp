@@ -59,9 +59,9 @@ Create a `chatPairs` node to define who can chat with whom.
 ➡️ You can use any unique key (like `"101010"`) for the pair.
 
 
-(./screenshots/firebase.png)
-(./screenshots/firebase.png)
-(./screenshots/firebase.png)
+![Firebase Configuration](./screenshots/firebase.png)
+![Login Screen](./screenshots/1.png)
+![Chat Screen](./screenshots/2.png)
 
 ---
 
